@@ -3,4 +3,4 @@
 -Eduard Fernando Radu
 -Roger Loga
 ## Cambios realizados
-- Hemos incorporado la página de registor y login
+- Hemos incorporado la página de login
