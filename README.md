@@ -4,5 +4,5 @@
 -Roger Loga
 ## Cambios realizados
 - Hemos incorporado la página de login
+- Añadida página del registro
 - Próximamente se implementará la página de recuperación de credenciales
-
